@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NevoKaplan
+- 👀 I’m interested in Computer Science & Gaming
+- 🌱 I’m currently learning Java & Python
+- 📫 How to reach me: nevokaplan2@gmail.com
